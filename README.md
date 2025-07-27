@@ -33,6 +33,7 @@ Available Balance: 100000
 
 💡 How to Use
 You can change the default account info like this:
+
 custm = ATM("your_account_no", "YourName", "YourPIN", balance=your_starting_balance)
 
 ✅ Requirements
