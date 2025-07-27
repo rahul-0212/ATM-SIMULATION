@@ -31,7 +31,7 @@ The `ATM` class encapsulates all the logic. Here's what it does:
 ## 📌 Sample Run
 
 ```python
-Enter your PIN: 5858
+Enter your PIN: 786786
 Authentication successful!
 
 Check Balance
